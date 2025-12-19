@@ -7,7 +7,7 @@
 By coordinating four distinct agents, Mentora ensures you not only have a teacher but also a manager, a strategist, and an analyst dedicated to your success.
 
 ## 📺 Demo Video
-[![Watch the Demo](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](DEMO.mp4)
+[![Watch the Demo](https://img.shields.io/badge/Demo-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/usV50NeCKio)
 
 *(Note: Click the badge above to watch the demo video walkthrough of Mentora's capabilities.)*
 
